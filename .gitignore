@@ -1,10 +1,12 @@
 *-debug.log
 *-error.log
+*.log
 /.nyc_output
 /dist
 /tmp
 /yarn.lock
 node_modules
+venv/
 
 *.tar.gz
 *.bmp
@@ -14,3 +16,8 @@ video-sync
 batch.sh
 *.csv
 .vscode/
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
