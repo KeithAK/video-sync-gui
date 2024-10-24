@@ -21,3 +21,6 @@ batch.sh
 __pycache__/
 *.py[cod]
 *$py.class
+
+#settings file
+gui_settings.json

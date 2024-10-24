@@ -5,7 +5,7 @@ import json
 import os
 
 # File where settings will be saved
-SETTINGS_FILE = "gui_settings.json"
+SETTINGS_FILE = "gui/gui_settings.json"
 
 # Function to load settings from the JSON file
 def load_settings():
